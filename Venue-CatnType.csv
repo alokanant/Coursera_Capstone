@@ -168,7 +168,7 @@ Boat or Ferry,Entertainment,Outdoor
 Middle Eastern Restaurant,Restaurant,Indoor
 Intersection,Public transport,Outdoor
 Brewery,Entertainment,Outdoor
-Mens Store,Retail,Indoor
+Men's Store,Retail,Indoor
 Poke Place,Restaurant,Indoor
 Snack Place,Restaurant,Indoor
 Pier,Entertainment,Outdoor
@@ -355,5 +355,5 @@ Resort,Entertainment,Outdoor
 Karaoke Bar,Entertainment,Indoor
 Bath House,Retail,Indoor
 """Women's Store""",Retail,Indoor
-"""Mens Store""",Retail,Indoor
+"""Men's Store""",Retail,Indoor
 """Doctor's Office""",Retail,Indoor
