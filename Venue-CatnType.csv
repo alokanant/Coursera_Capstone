@@ -1,4 +1,5 @@
 ﻿Venue Category,Venue Type,Indoor or Outdoor
+Pizza Place,Restaurant,Indoor
 Japanese Restaurant,Restaurant,Indoor
 Italian Restaurant,Restaurant,Indoor
 Bar,Restaurant,Indoor
@@ -209,7 +210,7 @@ Persian Restaurant,Restaurant,Indoor
 Roof Deck,Entertainment,Outdoor
 Library,Entertainment,Indoor
 New American Restaurant,Restaurant,Indoor
-Doctors Office,Retail,Indoor
+Doctor's Office,Retail,Indoor
 Monument / Landmark,Entertainment,Outdoor
 Jewelry Store,Retail,Indoor
 Falafel Restaurant,Restaurant,Indoor
@@ -353,3 +354,6 @@ Jewish Restaurant,Restaurant,Indoor
 Resort,Entertainment,Outdoor
 Karaoke Bar,Entertainment,Indoor
 Bath House,Retail,Indoor
+"""Women's Store""",Retail,Indoor
+"""Mens Store""",Retail,Indoor
+"""Doctor's Office""",Retail,Indoor
