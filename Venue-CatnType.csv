@@ -1,0 +1,355 @@
+﻿Venue Categories,Venue Type,Indoor or Outdoor
+Japanese Restaurant,Restaurant,Indoor
+Italian Restaurant,Restaurant,Indoor
+Bar,Restaurant,Indoor
+Pharmacy,Retail,Indoor
+Train Station,Public transport,Outdoor
+Food & Drink Shop,Retail,Indoor
+Spanish Restaurant,Restaurant,Indoor
+Ice Cream Shop,Retail,Indoor
+Seafood Restaurant,Restaurant,Indoor
+Sandwich Place,Restaurant,Indoor
+American Restaurant,Restaurant,Indoor
+Bagel Shop,Retail,Indoor
+Spa,Entertainment,Indoor
+Chinese Restaurant,Restaurant,Indoor
+Donut Shop,Retail,Indoor
+Burger Joint,Restaurant,Indoor
+Salon / Barbershop,Retail,Indoor
+Supermarket,Retail,Indoor
+Sushi Restaurant,Restaurant,Indoor
+Grocery Store,Retail,Indoor
+Shipping Store,Retail,Indoor
+Mexican Restaurant,Restaurant,Indoor
+Bakery,Retail,Indoor
+Lounge,Entertainment,Indoor
+Smoke Shop,Retail,Indoor
+Cafeteria,Restaurant,Indoor
+Dessert Shop,Retail,Indoor
+Liquor Store,Retail,Indoor
+Casino,Entertainment,Indoor
+Deli / Bodega,Retail,Indoor
+Bus Stop,Public transport,Outdoor
+Dance Studio,Retail,Indoor
+Optical Shop,Retail,Indoor
+Construction & Landscaping,Retail,Indoor
+Playground,Entertainment,Outdoor
+Bank,Retail,Indoor
+Food,Retail,Indoor
+Beach,Entertainment,Outdoor
+Surf Spot,Entertainment,Outdoor
+Trail,Entertainment,Outdoor
+Art Museum,Entertainment,Indoor
+Fried Chicken Joint,Restaurant,Indoor
+Park,Entertainment,Indoor
+Indian Restaurant,Restaurant,Indoor
+Gym,Entertainment,Indoor
+Caribbean Restaurant,Restaurant,Indoor
+Nightclub,Entertainment,Indoor
+Discount Store,Retail,Indoor
+Mobile Phone Shop,Retail,Indoor
+Diner,Restaurant,Indoor
+Fast Food Restaurant,Restaurant,Indoor
+Latin American Restaurant,Restaurant,Indoor
+Hotel,Hotel,Indoor
+Rest Area,Rest Area,Both
+Recreation Center,Entertainment,Indoor
+Dog Run,Entertainment,Outdoor
+Southern / Soul Food Restaurant,Restaurant,Indoor
+Restaurant,Restaurant,Indoor
+Asian Restaurant,Restaurant,Indoor
+Bus Station,Public transport,Outdoor
+Nail Salon,Retail,Indoor
+Video Game Store,Retail,Indoor
+Candy Store,Retail,Indoor
+South American Restaurant,Restaurant,Indoor
+Hookah Bar,Entertainment,Indoor
+Thai Restaurant,Restaurant,Indoor
+Arts & Crafts Store,Retail,Indoor
+Rental Car Location,Public transport,Indoor
+Arepa Restaurant,Restaurant,Indoor
+Gas Station,Retail,Outdoor
+Department Store,Retail,Indoor
+Bubble Tea Shop,Retail,Indoor
+Clothing Store,Retail,Indoor
+Art Gallery,Entertainment,Indoor
+Coffee Shop,Retail,Indoor
+Dim Sum Restaurant,Restaurant,Indoor
+Hobby Shop,Retail,Indoor
+Flower Shop,Retail,Indoor
+Furniture / Home Store,Retail,Indoor
+Health & Beauty Service,Retail,Indoor
+Tanning Salon,Retail,Indoor
+Supplement Shop,Retail,Indoor
+Convenience Store,Retail,Indoor
+Sporting Goods Shop,Retail,Indoor
+French Restaurant,Restaurant,Indoor
+Kids Store,Retail,Indoor
+Cosmetics Shop,Retail,Indoor
+Weight Loss Center,Entertainment,Indoor
+Event Space,Entertainment,Outdoor
+Womens Store,Retail,Indoor
+Vietnamese Restaurant,Restaurant,Indoor
+Food Truck,Retail,Indoor
+Taco Place,Restaurant,Indoor
+Automotive Shop,Retail,Indoor
+BBQ Joint,Restaurant,Indoor
+Buffet,Restaurant,Indoor
+Massage Studio,Entertainment,Indoor
+Baseball Field,Entertainment,Outdoor
+Outdoors & Recreation,Entertainment,Outdoor
+Shopping Mall,Retail,Indoor
+Gift Shop,Retail,Indoor
+Record Shop,Retail,Indoor
+Wings Joint,Restaurant,Indoor
+Miscellaneous Shop,Retail,Indoor
+Turkish Restaurant,Restaurant,Indoor
+Other Great Outdoors,Entertainment,Outdoor
+Eastern European Restaurant,Restaurant,Indoor
+Business Service,Retail,Indoor
+Pet Store,Retail,Indoor
+Skate Park,Entertainment,Outdoor
+Soccer Field,Entertainment,Outdoor
+Other Nightlife,Entertainment,Indoor
+History Museum,Entertainment,Indoor
+Golf Course,Entertainment,Outdoor
+Café,Restaurant,Indoor
+Historic Site,Entertainment,Outdoor
+Nightlife Spot,Entertainment,Indoor
+Hot Spring,Entertainment,Outdoor
+Tennis Court,Entertainment,Outdoor
+Sculpture Garden,Entertainment,Outdoor
+Pool,Entertainment,Indoor
+African Restaurant,Restaurant,Indoor
+State / Provincial Park,Entertainment,Outdoor
+Gym / Fitness Center,Entertainment,Indoor
+Shoe Store,Retail,Indoor
+Auto Dealership,Retail,Indoor
+Basketball Court,Entertainment,Outdoor
+Paella Restaurant,Restaurant,Indoor
+Plaza,Entertainment,Indoor
+Bowling Alley,Entertainment,Indoor
+Gourmet Shop,Retail,Indoor
+Beer Bar,Entertainment,Indoor
+Pub,Entertainment,Indoor
+Warehouse Store,Retail,Indoor
+Yoga Studio,Entertainment,Indoor
+Tapas Restaurant,Restaurant,Indoor
+Thrift / Vintage Store,Retail,Indoor
+Track,Entertainment,Outdoor
+Greek Restaurant,Restaurant,Indoor
+Breakfast Spot,Restaurant,Indoor
+Steakhouse,Restaurant,Indoor
+Wine Shop,Retail,Indoor
+Juice Bar,Retail,Indoor
+Music Venue,Retail,Indoor
+Fish Market,Retail,Indoor
+Home Service,Retail,Indoor
+Hardware Store,Retail,Indoor
+Paintball Field,Entertainment,Outdoor
+Moving Target,Retail,Indoor
+Dry Cleaner,Retail,Indoor
+Harbor / Marina,Entertainment,Outdoor
+Big Box Store,Retail,Indoor
+German Restaurant,Restaurant,Indoor
+Toll Plaza,Public transport,Outdoor
+Bridal Shop,Retail,Indoor
+Martial Arts School,Retail,Indoor
+Mac & Cheese Joint,Restaurant,Indoor
+Athletics & Sports,Entertainment,Outdoor
+Speakeasy,Retail,Indoor
+Campground,Entertainment,Outdoor
+Mountain,Entertainment,Outdoor
+Scenic Lookout,Entertainment,Outdoor
+Video Store,Retail,Indoor
+Sri Lankan Restaurant,Restaurant,Indoor
+Boat or Ferry,Entertainment,Outdoor
+Middle Eastern Restaurant,Restaurant,Indoor
+Intersection,Public transport,Outdoor
+Brewery,Entertainment,Outdoor
+Mens Store,Retail,Indoor
+Poke Place,Restaurant,Indoor
+Snack Place,Restaurant,Indoor
+Pier,Entertainment,Outdoor
+Polish Restaurant,Restaurant,Indoor
+Mediterranean Restaurant,Restaurant,Indoor
+Gastropub,Restaurant,Indoor
+Filipino Restaurant,Restaurant,Indoor
+Cajun / Creole Restaurant,Restaurant,Indoor
+Storage Facility,Retail,Indoor
+Check Cashing Service,Retail,Indoor
+Arcade,Entertainment,Indoor
+Fish & Chips Shop,Retail,Indoor
+Bridge,Entertainment,Outdoor
+River,Entertainment,Outdoor
+Cheese Shop,Retail,Indoor
+Bookstore,Retail,Indoor
+Gaming Cafe,Entertainment,Indoor
+Metro Station,Public transport,Indoor
+Soup Place,Restaurant,Indoor
+Waterfront,Entertainment,Outdoor
+Farmers Market,Retail,Outdoor
+Tram Station,Public transport,Outdoor
+Salad Place,Restaurant,Indoor
+Health Food Store,Retail,Indoor
+Club House,Entertainment,Indoor
+Cuban Restaurant,Restaurant,Indoor
+Wine Bar,Restaurant,Indoor
+Cocktail Bar,Restaurant,Indoor
+English Restaurant,Restaurant,Indoor
+Vegetarian / Vegan Restaurant,Restaurant,Indoor
+Beer Garden,Restaurant,Indoor
+Czech Restaurant,Restaurant,Indoor
+Bike Trail,Entertainment,Outdoor
+Building,Retail,Indoor
+School,Retail,Indoor
+Movie Theater,Entertainment,Indoor
+Field,Entertainment,Outdoor
+Persian Restaurant,Restaurant,Indoor
+Roof Deck,Entertainment,Outdoor
+Library,Entertainment,Indoor
+New American Restaurant,Restaurant,Indoor
+Doctors Office,Retail,Indoor
+Monument / Landmark,Entertainment,Outdoor
+Jewelry Store,Retail,Indoor
+Falafel Restaurant,Restaurant,Indoor
+Museum,Entertainment,Indoor
+Food Court,Restaurant,Indoor
+Cycle Studio,Retail,Indoor
+Lingerie Store,Retail,Indoor
+Memorial Site,Entertainment,Outdoor
+Pedestrian Plaza,Public transport,Outdoor
+Japanese Curry Restaurant,Restaurant,Indoor
+Hotel Bar,Restaurant,Indoor
+Auditorium,Entertainment,Indoor
+Electronics Store,Retail,Indoor
+Comic Shop,Retail,Indoor
+Paper / Office Supplies Store,Retail,Indoor
+Comfort Food Restaurant,Restaurant,Indoor
+Pilates Studio,Entertainment,Indoor
+Noodle House,Restaurant,Indoor
+Social Club,Entertainment,Indoor
+Burrito Place,Restaurant,Indoor
+Jazz Club,Entertainment,Indoor
+Exhibit,Entertainment,Outdoor
+Chocolate Shop,Retail,Indoor
+Outdoor Sculpture,Entertainment,Outdoor
+Udon Restaurant,Restaurant,Indoor
+Lebanese Restaurant,Restaurant,Indoor
+Boutique,Retail,Indoor
+Comedy Club,Entertainment,Indoor
+Creperie,Restaurant,Indoor
+Cupcake Shop,Retail,Indoor
+Beer Store,Retail,Indoor
+Outdoor Supply Store,Retail,Indoor
+Indie Movie Theater,Entertainment,Indoor
+Brazilian Restaurant,Restaurant,Indoor
+Peruvian Restaurant,Restaurant,Indoor
+Australian Restaurant,Restaurant,Indoor
+Pie Shop,Retail,Indoor
+Motorcycle Shop,Retail,Indoor
+Boxing Gym,Entertainment,Indoor
+Israeli Restaurant,Restaurant,Indoor
+Market,Retail,Indoor
+Film Studio,Entertainment,Indoor
+Farm,Entertainment,Outdoor
+Gymnastics Gym,Entertainment,Indoor
+Szechuan Restaurant,Restaurant,Indoor
+Whisky Bar,Restaurant,Indoor
+Tea Room,Entertainment,Indoor
+Vape Store,Retail,Indoor
+Garden Center,Entertainment,Outdoor
+Coworking Space,Retail,Indoor
+Fruit & Vegetable Store,Retail,Indoor
+Korean Restaurant,Restaurant,Indoor
+Ramen Restaurant,Restaurant,Indoor
+Used Bookstore,Retail,Indoor
+Burmese Restaurant,Restaurant,Indoor
+Accessories Store,Retail,Indoor
+Frozen Yogurt Shop,Retail,Indoor
+Toy / Game Store,Retail,Indoor
+Organic Grocery,Retail,Indoor
+Dive Bar,Restaurant,Indoor
+Butcher,Retail,Indoor
+Theater,Entertainment,Indoor
+Colombian Restaurant,Restaurant,Indoor
+Concert Hall,Entertainment,Indoor
+Performing Arts Venue,Entertainment,Indoor
+Opera House,Entertainment,Indoor
+Board Shop,Retail,Indoor
+Climbing Gym,Entertainment,Outdoor
+Ethiopian Restaurant,Restaurant,Indoor
+Basketball Stadium,Entertainment,Outdoor
+Indoor Play Area,Entertainment,Indoor
+Hot Dog Joint,Restaurant,Indoor
+Daycare,Retail,Indoor
+Piano Bar,Restaurant,Indoor
+Garden,Entertainment,Outdoor
+Indie Theater,Entertainment,Indoor
+Bistro,Restaurant,Indoor
+Pet Service,Retail,Indoor
+Kitchen Supply Store,Retail,Indoor
+Circus,Entertainment,Indoor
+College Arts Building,Entertainment,Indoor
+Fountain,Entertainment,Outdoor
+Community Center,Entertainment,Both
+Scandinavian Restaurant,Restaurant,Indoor
+Moroccan Restaurant,Restaurant,Indoor
+Pet Café,Retail,Indoor
+Swiss Restaurant,Restaurant,Indoor
+Taiwanese Restaurant,Restaurant,Indoor
+Argentinian Restaurant,Restaurant,Indoor
+Sake Bar,Restaurant,Indoor
+Ukrainian Restaurant,Restaurant,Indoor
+Office,Retail,Indoor
+Russian Restaurant,Restaurant,Indoor
+Kebab Restaurant,Restaurant,Indoor
+Halal Restaurant,Restaurant,Indoor
+Dumpling Restaurant,Restaurant,Indoor
+General Entertainment,Entertainment,Indoor
+Government Building,Retail,Indoor
+Gym Pool,Entertainment,Indoor
+Arts & Entertainment,Entertainment,Indoor
+Hostel,Hotel,Indoor
+Post Office,Retail,Indoor
+Skating Rink,Entertainment,Outdoor
+Tibetan Restaurant,Restaurant,Indoor
+Rental Service,Retail,Indoor
+North Indian Restaurant,Restaurant,Indoor
+Mattress Store,Retail,Indoor
+Sports Bar,Entertainment,Indoor
+Lake,Entertainment,Outdoor
+Tiki Bar,Restaurant,Indoor
+Drugstore,Retail,Indoor
+Planetarium,Entertainment,Indoor
+Hawaiian Restaurant,Restaurant,Indoor
+Bike Shop,Retail,Indoor
+Malay Restaurant,Restaurant,Indoor
+Gay Bar,Restaurant,Indoor
+Church,Entertainment,Indoor
+Distillery,Retail,Indoor
+Antique Shop,Retail,Indoor
+Factory,Retail,Indoor
+Street Food Gathering,Retail,Indoor
+Motel,Hotel,Indoor
+Baseball Stadium,Entertainment,Indoor
+Cruise Ship,Entertainment,Indoor
+Tech Startup,Retail,Indoor
+Photography Studio,Retail,Indoor
+College Theater,Entertainment,Indoor
+Golf Driving Range,Entertainment,Outdoor
+Racetrack,Entertainment,Outdoor
+Rock Club,Entertainment,Indoor
+Mini Golf,Entertainment,Outdoor
+Herbs & Spices Store,Retail,Indoor
+Multiplex,Entertainment,Indoor
+Tattoo Parlor,Retail,Indoor
+Austrian Restaurant,Restaurant,Indoor
+Animal Shelter,Retail,Indoor
+Sports Club,Entertainment,indoor
+Cooking School,Retail,Indoor
+Event Service,Retail,Indoor
+Jewish Restaurant,Restaurant,Indoor
+Resort,Entertainment,Outdoor
+Karaoke Bar,Entertainment,Indoor
+Bath House,Retail,Indoor
